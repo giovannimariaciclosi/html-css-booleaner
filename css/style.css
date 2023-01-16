@@ -6,10 +6,15 @@ h1 {
 
 ul {
   margin-bottom: 57px;
+  padding-left: 20px;
 }
 
 li {
   font-size: 20px;
+}
+
+table {
+  border-spacing: 0;
 }
 
 th {
@@ -21,7 +26,7 @@ th {
   font-size: 20px;
   text-align: left;
   color: #FFFFFF;
-  background-color: #20A9E5; 
+  /* background-color: #20A9E5;  */
 }
 
 td {
@@ -31,8 +36,17 @@ td {
   padding-bottom: 0;
 }
 
+/* tr {
+  background-color: #20A9E5;
+} */
+
 .blue-background {
   background-color: #B1E5F2;
+  font-size: 20px;
+}
+
+.blue-background-2 {
+  background-color: #20A9E5;
   font-size: 20px;
 }
 
@@ -110,6 +124,7 @@ font-size: 20px;
   line-height: 60px;
   width: 312px;
   height: 208px;
+  padding-left: 20px;
 }
 
 #immagine2 {
@@ -122,4 +137,5 @@ font-size: 20px;
   line-height: 60px;
   width: 312px;
   height: 208px;
+  padding-left: 20px;
 }

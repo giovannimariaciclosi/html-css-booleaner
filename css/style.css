@@ -1,15 +1,53 @@
-body{
+h1 {
+  font-size: 70px;
+  margin-bottom: 0;
+}
+
+body {
   margin: 0;
 }
 
-header{
+main {
+  margin-left: 14px;
+  margin-right: 14px;
+}
+
+header {
   height: 180px;
   background-image: url(/img/pattern.png);
   background-color: #4EA0FF;
   background-repeat: repeat-x;
 }
 
-.logo{
+#subtitle {
+  display: inline;
+  font-size: 24px;
+  font-weight: 500;
+  color: #7B7B7B;
+}
+  
+#sub-subtitle {
+  display: inline;
+  font-size: 24px;
+  font-weight: 500;
+  color: #18A6E3;
+}
+  
+#date {
+  font-size: 16px;
+  color: #7B7B7B;
+  margin-bottom: 44px;
+}
+
+#paragraph {
+margin-top: 49px;
+}
+
+.photo-description {
+  font-size: 16px;
+}
+
+.logo {
   height: 82px;
   width: 371px;
   padding-top: 76px;
